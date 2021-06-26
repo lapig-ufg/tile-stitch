@@ -64,5 +64,5 @@ To install on Ubuntu do:
     git clone git@github.com:ericfischer/tile-stitch.git
     cd tile-stitch
     make
-    #install the complied stitch
+    #install the compiled stitch
     sudo install ./stitch /usr/local/bin/
