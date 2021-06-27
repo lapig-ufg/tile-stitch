@@ -61,7 +61,7 @@ To install on Ubuntu do:
 
     sudo apt-get update
     sudo apt-get install git build-essential pkg-config libcurl4-openssl-dev libpng-dev libjpeg-dev libtiff-dev libgeotiff-dev
-    git clone git@github.com:ericfischer/tile-stitch.git
+    git clone git@github.com:lapig-ufg/tile-stitch.git
     cd tile-stitch
     make
     #install the compiled stitch
